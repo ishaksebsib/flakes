@@ -11,6 +11,10 @@
         path = ./pnpm;
         description = "Node.js and pnpm devShell with treefmt";
       };
+			python = {
+        path = ./python;
+        description = "Python devShell with treefmt";
+      };
     };
   };
 }

@@ -15,6 +15,10 @@
         path = ./python;
         description = "Python devShell with treefmt";
       };
+			ocaml = {
+        path = ./ocaml;
+        description = "OCaml devShell with treefmt";
+      };
     };
   };
 }
